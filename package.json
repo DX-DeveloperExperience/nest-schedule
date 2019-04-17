@@ -1,5 +1,5 @@
 {
-  "name": "nest-schedule",
+  "name": "@dxdeveloperexperience/nest-schedule",
   "version": "0.4.6",
   "description": "Nest - modern, fast, powerful node.js web framework (@schedule)",
   "author": "Miaowing <i@zfeng.net>",
